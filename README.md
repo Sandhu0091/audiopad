@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="assets/audiopad.png" alt="Audiopad Logo" width="128" height="128">
-</p>
-
+<img width="1280" height="640" alt="audiopad" src="https://github.com/user-attachments/assets/6c112f7e-c2a8-470b-bae9-65a3ec2f7c61" />
 <h1 align="center">Audiopad</h1>
 
 <p align="center">
