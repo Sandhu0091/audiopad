@@ -147,6 +147,14 @@ Here is what each submodule does:
 
 ---
 
+<a href="https://www.star-history.com/?repos=audiopadapp%2Faudiopad&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=audiopadapp/audiopad&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=audiopadapp/audiopad&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=audiopadapp/audiopad&type=date&legend=top-left" />
+ </picture>
+</a>
+
 ## 📄 License & Community Guidelines
 
 * **License**: This project is licensed under the terms of the [GNU GPLv3](LICENSE) license.
