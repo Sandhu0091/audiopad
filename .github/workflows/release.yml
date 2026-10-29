@@ -41,7 +41,7 @@ jobs:
           dpkg-deb --build audiopad
 
       - name: Upload deb package
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: linux-deb
           path: deployment/debian/audiopad.deb
@@ -79,7 +79,7 @@ jobs:
           outPath: audiopad.tar.gz
 
       - name: Upload Source Tarball
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: source-tarball
           path: audiopad.tar.gz
