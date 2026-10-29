@@ -71,7 +71,7 @@ jobs:
           rm -f CMakeCache.txt
 
       - name: Create source tarball
-        uses: master-atul/tar-action@v1.0.2
+        uses: master-atul/tar-action@v1.2.0
         with:
           command: c
           files: |
