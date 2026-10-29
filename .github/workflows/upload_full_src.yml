@@ -35,7 +35,7 @@ jobs:
         run: 'cd audiopad && cmake -GNinja . && find build -not -name "_deps" -delete && rm -f CMakeCache.txt'
 
       - name: Create tarball
-        uses: master-atul/tar-action@v1.0.2
+        uses: master-atul/tar-action@v1.2.0
         with:
           command: c
           files: |
